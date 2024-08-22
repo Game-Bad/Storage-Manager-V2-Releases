@@ -1,2 +1,2 @@
-# Storage-Manager-V2-Releases
-Another variation to Storage Manager with different management options
+# [2024-08-22] Storage-Manager-V2-Releases
+Public repository to keep track of the releases of Storage-Manger-V2
